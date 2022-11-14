@@ -1,0 +1,17 @@
+{
+  "name": "link",
+  "version": "1.0.0",
+  "description": "<br>",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "upload": "git add . && git commit -m xiaokang && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/codeslive/blog_04.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
